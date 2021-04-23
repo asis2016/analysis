@@ -1,0 +1,15 @@
+{
+  "name": "ds-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write '**/*.{js,css,html}'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Singh Maharjan",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
