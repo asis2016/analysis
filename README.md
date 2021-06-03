@@ -35,16 +35,13 @@ Upload the following file to your Jupyter notebook
   global-gdp-2019-analysis.ipynb
 ```
 
-  
-## Feedback
-
-If you have any feedback, please reach out to us at hello@amaharjan.com
-
-  
 ## Screenshots
 
 ![Screenshot](screenshots/screenshot-v1.png)
 
+## Feedback
+
+If you have any feedback, please reach out to us at hello@amaharjan.com
   
 ## Reference
 
